@@ -31,10 +31,12 @@ var resultArr=[];
 
 var i=0;
 do {
-    resultArr[i]=;
+    resultArr[i]="I love the Beatles!";
     i++;
 }
 while (i<reps && i < 15);
+
+return resultArr;
 
 }
 
