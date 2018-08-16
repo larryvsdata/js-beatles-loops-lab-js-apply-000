@@ -34,7 +34,7 @@ do {
     resultArr[i]="I love the Beatles!";
     i++;
 }
-while (i<reps && i < 15);
+while (i<reps );
 
 return resultArr;
 
