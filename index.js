@@ -31,10 +31,10 @@ var resultArr=[];
 
 var i=0;
 do {
-    text += "The number is " + i;
+    resultArr[i]=;
     i++;
 }
-while (i < 15);
+while (i<reps && i < 15);
 
 }
 
