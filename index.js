@@ -31,7 +31,7 @@ var resultArr=[];
 
 var i=reps;
 do {
-    resultArr[i]="I love the Beatles!";
+    resultArr.push("I love the Beatles!");
     i++;
 }
 while ( i < 15 );
