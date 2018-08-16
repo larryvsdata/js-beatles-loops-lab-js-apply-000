@@ -26,13 +26,14 @@ return facts;
   
 }
 
-function johnLennonFacts(facts){
+function iLoveTheBeatles(reps){
 
+var i=0;
 do {
     text += "The number is " + i;
     i++;
 }
 while (i < 10);
 
-
+}
 
