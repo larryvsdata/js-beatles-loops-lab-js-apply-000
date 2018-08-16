@@ -29,12 +29,12 @@ return facts;
 function iLoveTheBeatles(reps){
 var resultArr=[];
 
-var i=0;
+var i=reps;
 do {
     resultArr[i]="I love the Beatles!";
     i++;
 }
-while (i<reps-1 && i < 14 );
+while ( i < 15 );
 
 return resultArr;
 
