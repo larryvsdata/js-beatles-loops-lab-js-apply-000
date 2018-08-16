@@ -26,7 +26,7 @@ return facts;
   
 }
 
-
+function johnLennonFacts(facts){
 
 do {
     text += "The number is " + i;
